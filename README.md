@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Maryana
 
 - 👨‍💻 I’m frontend-developer
-- 🌱 I’m currently learning Typescript and testing
+- 🌱 I’m currently learning: Typescript, testing, React, Express.js, MongoDB, mySQL, UX/UI design.
+- 🎯 My goal is to become fullstack-developer (frontend + backend + design). 
 
 ## 💻 My stack
 ### **Languages**
