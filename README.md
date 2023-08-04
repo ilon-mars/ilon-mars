@@ -2,7 +2,9 @@
 
 - 👨‍💻 I’m frontend-developer
 - 🌱 I’m currently learning: Typescript, testing, React, Express.js, MongoDB, mySQL, UX/UI design.
-- 🎯 My goal is to become fullstack-developer (frontend + backend + design). 
+- 🎯 My goal is to become fullstack-developer (frontend + backend + design).
+
+- ✨ I'm interested in developing LMS-system with gamification and mini-games.
 
 ## 💻 My stack
 ### **Languages**
